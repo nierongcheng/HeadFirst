@@ -1,1 +1,1 @@
-include ':app', ':decorator'
+include ':decorator'
